@@ -1,0 +1,11 @@
+/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/java/com/personal/gi/app/data/AbstractEntity.java
+/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/java/com/personal/gi/app/data/service/UsuarioService.java
+/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/java/com/personal/gi/app/Application.java
+/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/java/com/personal/gi/app/data/service/SamplePersonRepository.java
+/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/java/com/personal/gi/app/views/about/AboutView.java
+/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/java/com/personal/gi/app/views/usuarios/UsuariosView.java
+/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/java/com/personal/gi/app/data/generator/DataGenerator.java
+/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/java/com/personal/gi/app/data/entity/SamplePerson.java
+/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/java/com/personal/gi/app/views/usuarios/UsuarioView.java
+/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/java/com/personal/gi/app/views/MainLayout.java
+/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/java/com/personal/gi/app/data/service/SamplePersonService.java

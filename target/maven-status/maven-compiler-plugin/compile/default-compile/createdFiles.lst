@@ -1,0 +1,12 @@
+com/personal/gi/app/data/service/SamplePersonRepository.class
+com/personal/gi/app/views/MainLayout.class
+com/personal/gi/app/views/about/AboutView.class
+com/personal/gi/app/data/service/UsuarioService.class
+com/personal/gi/app/data/service/SamplePersonService.class
+com/personal/gi/app/views/MainLayout$MenuItemInfo.class
+com/personal/gi/app/views/usuarios/UsuariosView.class
+com/personal/gi/app/Application.class
+com/personal/gi/app/data/entity/SamplePerson.class
+com/personal/gi/app/views/usuarios/UsuarioView.class
+com/personal/gi/app/data/generator/DataGenerator.class
+com/personal/gi/app/data/AbstractEntity.class

@@ -35,7 +35,7 @@ import org.springframework.data.domain.PageRequest;
 
 @PageTitle("Usuarios")
 @Route(value = "usuarios/:samplePersonID?/:action?(edit)", layout = MainLayout.class)
-@RouteAlias(value = "", layout = MainLayout.class)
+@RouteAlias(value = "us", layout = MainLayout.class)
 @Uses(Icon.class)
 public class UsuariosView extends Div implements BeforeEnterObserver {
 

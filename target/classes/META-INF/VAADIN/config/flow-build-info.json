@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo",
+  "generatedFolder": "/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/target/frontend",
+  "frontendFolder": "/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/frontend",
+  "connect.javaSourceFolder": "/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/java",
+  "javaResourceFolder": "/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/resources",
+  "connect.applicationProperties": "/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/src/main/resources/application.properties",
+  "connect.openApiFile": "/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/home/edu/Proyectos/Nucleo/multimoduleVadim/vaadimdemo/frontend/generated",
+  "pnpm.enable": true,
+  "require.home.node": false,
+  "build.folder": "target"
+}

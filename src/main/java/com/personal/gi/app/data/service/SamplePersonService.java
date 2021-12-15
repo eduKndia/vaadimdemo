@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class SamplePersonService {
 
-    private SamplePersonRepository repository;
+    private final SamplePersonRepository repository;
 
     public SamplePersonService(@Autowired SamplePersonRepository repository) {
         this.repository = repository;

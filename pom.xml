@@ -5,7 +5,7 @@
     <!-- Vaadin project from https://start.vaadin.com/project/dfcbdae5-12bb-4b15-92d8-9e49061f879f -->
     <groupId>com.personal.gi.app</groupId>
     <artifactId>vaadimdemo</artifactId>
-    <name>Project base for Spring Boot and Vaadin Flow</name>
+    <name>VaadimDemo</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -139,6 +139,11 @@
             <artifactId>webdrivermanager</artifactId>
             <version>4.4.0</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.personal.gi.app</groupId>
+            <artifactId>persistencia</artifactId>
+            <version>0.0.4-SNAPSHOT</version>
         </dependency>
     </dependencies>
 

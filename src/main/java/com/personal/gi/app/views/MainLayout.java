@@ -1,6 +1,7 @@
 package com.personal.gi.app.views;
 
 import com.personal.gi.app.views.about.AboutView;
+import com.personal.gi.app.views.usuarios.UsuarioView;
 import com.personal.gi.app.views.usuarios.UsuariosView;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.applayout.AppLayout;
@@ -103,7 +104,7 @@ public class MainLayout extends AppLayout {
 
     private List<RouterLink> createLinks() {
         MenuItemInfo[] menuItems = new MenuItemInfo[]{ //
-                new MenuItemInfo("Usuarios", "la la-columns", UsuariosView.class), //
+                new MenuItemInfo("Usuario", "la la-columns", UsuarioView.class), //
 
                 new MenuItemInfo("About", "la la-file", AboutView.class), //
 
